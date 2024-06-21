@@ -78,6 +78,7 @@ Give the Agent some time to save the configuration.
 
 Click on the `Review` tab to see the status of the Agent.
 
+<img src="agent-status.png">
 
 
 
